@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minn Ko</h1>
+<h1 align="center">Hi 👋, I'm Hisen Buck</h1>
 <h3 align="center">💥 Energetic Fullstack Native Mobile Apps Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphalabs72&label=Profile%20views&color=0e75b6&style=flat" alt="alphalabs72" /> </p>
